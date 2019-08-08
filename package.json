@@ -1,0 +1,12 @@
+{
+  "name": "vuepress-plugin-application-insights",
+  "version": "0.1.0",
+  "description": "A plugin for Azure Application Insights with Vuepress.",
+  "main": "index.js",
+  "author": "James Roberts",
+  "license": "MIT",
+  "dependencies": {
+    "@microsoft/applicationinsights-web":"^2.1.1",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
