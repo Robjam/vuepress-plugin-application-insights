@@ -6,7 +6,6 @@
   "author": "James Roberts",
   "license": "MIT",
   "dependencies": {
-    "@microsoft/applicationinsights-web":"^2.1.1",
-    "cheerio": "^1.0.0-rc.3"
+    "@microsoft/applicationinsights-web":"^2.1.1"
   }
 }
