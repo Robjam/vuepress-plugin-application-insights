@@ -7,5 +7,14 @@
   "license": "MIT",
   "dependencies": {
     "@microsoft/applicationinsights-web":"^2.1.1"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords":[
+    "application insights",
+    "vuepress",
+    "azure",
+    "plugin"
+  ]
 }
