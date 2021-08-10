@@ -8,6 +8,10 @@
   "dependencies": {
     "@microsoft/applicationinsights-web":"^2.1.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Robjam/vuepress-plugin-application-insights.git"
+  },
   "publishConfig": {
     "access": "public"
   },
